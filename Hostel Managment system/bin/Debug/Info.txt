@@ -1,0 +1,3 @@
+    Saeed,    Akhtar,    27-01-2000,    0306789988,    Multan,    1090,    1070,    200
+  Ahamd faraz,  saeed Akhtar,  28-11-2004,  0309787888,  Multan,  1090,  ,  1020
+  wff,  fff,  ccc,  wfe,  wf,  133,  ,  122
